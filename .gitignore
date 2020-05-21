@@ -1,2 +1,10 @@
-
+# windows system files
 *.ini
+
+# R files
+*.Rproj
+*.RData
+
+# Folders
+data/
+archive/
